@@ -1,0 +1,21 @@
+* {
+  font-family: Samim-FD, sans-serif;
+  direction: rtl;
+  margin: auto;
+}
+
+.container {
+  width: 100%;
+}
+
+.app {
+  width: 60%;
+  max-width: 750px;
+  max-height: 750px;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.date {
+  direction: ltr;
+}
